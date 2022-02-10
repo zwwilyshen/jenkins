@@ -1,0 +1,2697 @@
+credentials:
+  system:
+    domainCredentials:
+    - credentials:
+      - basicSSHUserPrivateKey:
+          description: "root"
+          id: "e4bee62c-1cd5-404e-9a64-1f6253a0c4db"
+          privateKeySource:
+            directEntry:
+              privateKey: "{AQAAABAAAAAg8lZ3UJiJGEnEpWQh3U38FgivLmyts7JblytuCgeHxq6IKMSMm+he+EG5aF+3ukZ0}"
+          scope: SYSTEM
+          username: "root"
+      - usernamePassword:
+          description: "YFve_2018!"
+          id: "HSHU2018"
+          password: "{AQAAABAAAAAQu28n2tpa/pLG8/9bqah10KtO708NnpbfN3kti43xPPQ=}"
+          scope: GLOBAL
+          username: "HSHU"
+      - usernamePassword:
+          description: "INTEGRATION_node_only"
+          id: "9f1938b9-e435-44eb-8d01-0bd747faabc5"
+          password: "{AQAAABAAAAAQwc+vHvsdlv0IXK+xGqlvyUdurRKT9uSb2AGMcjnNTno=}"
+          scope: GLOBAL
+          username: "admins"
+      - usernamePassword:
+          id: "f8ef188a-2466-4852-a867-5f73d6f105f6"
+          password: "{AQAAABAAAAAQMgLQtcwjN6yHWhqeHj1xPl1BTJfBz5wC8P/KKHN+1e8=}"
+          scope: GLOBAL
+          username: "jshen14"
+      - usernamePassword:
+          id: "3a34d53b-4209-4786-833e-e84e30e9b29a"
+          password: "{AQAAABAAAAAQReSID9NWPTiT3HCXDnMDPogE/Lpj0jNtnhK3G8hoPLU=}"
+          scope: GLOBAL
+          username: "jshen14"
+      - usernamePassword:
+          description: "Global"
+          id: "830eb85f-6266-4f2f-9435-eeb99084f61c"
+          password: "{AQAAABAAAAAQOOrNMgKHyRhnjY+VYKuzHup9Mnn6Ghk9n9LQkpewCgQ=}"
+          scope: GLOBAL
+          username: "JSHEN14"
+      - basicSSHUserPrivateKey:
+          description: "HOST11_INTEGRATION_only"
+          id: "a38052f7-27ee-4015-b418-bc11fd518e5d"
+          privateKeySource:
+            directEntry:
+              privateKey: "{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}"
+          scope: SYSTEM
+          username: "jenkins"
+      - basicSSHUserPrivateKey:
+          description: "HOST12_INTEGRATION_only"
+          id: "30057e60-5e1d-4511-867b-8dc5586e5fc4"
+          privateKeySource:
+            directEntry:
+              privateKey: "{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}"
+          scope: SYSTEM
+          username: "jenkins"
+      - basicSSHUserPrivateKey:
+          description: "HOST13_INTEGRATION_only"
+          id: "e1724160-4a5b-40fd-8a23-38f5853aa6eb"
+          privateKeySource:
+            directEntry:
+              privateKey: "{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}"
+          scope: SYSTEM
+          username: "jenkins"
+      - basicSSHUserPrivateKey:
+          description: "HOST20_INTEGRATION_only"
+          id: "cec32ae9-a355-4538-a284-8e8d7af30701"
+          privateKeySource:
+            directEntry:
+              privateKey: "{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}"
+          scope: SYSTEM
+          username: "jenkins"
+      - basicSSHUserPrivateKey:
+          description: "HOST18_INTEGRATION_only"
+          id: "d470a47d-c45e-4043-9ce3-40708052ad0c"
+          privateKeySource:
+            directEntry:
+              privateKey: "{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}"
+          scope: SYSTEM
+          username: "jenkins"
+      - basicSSHUserPrivateKey:
+          description: "HOST17_INTEGRATION_only"
+          id: "7eb55dd1-b609-4bf4-ae11-73fc65011037"
+          privateKeySource:
+            directEntry:
+              privateKey: "{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}"
+          scope: SYSTEM
+          username: "jenkins"
+      - basicSSHUserPrivateKey:
+          id: "global-pipeline-template"
+          privateKeySource:
+            directEntry:
+              privateKey: "{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}"
+          scope: GLOBAL
+          username: "qfan"
+      - usernamePassword:
+          description: "YFve2018"
+          id: "f3d00577-d354-45cb-a57d-24477f495775"
+          password: "{AQAAABAAAAAQsWwBis2C2T2Hma/v4gj2xTPw1/rpu7RQ5jb+LEyBmP8=}"
+          scope: GLOBAL
+          username: "hshu"
+      - usernamePassword:
+          description: "Only Local RTC"
+          id: "605b746b-6451-4b72-92eb-8e1ee935f5c6"
+          password: "{AQAAABAAAAAQpP/YhkeXBTrWTsMi9TkSakw/85Rpc03TUghwf5XmasE=}"
+          scope: GLOBAL
+          username: "CXU20"
+      - usernamePassword:
+          description: "Global RTC"
+          id: "721867d3-bbf5-45d3-be2e-3ba357bccb10"
+          password: "{AQAAABAAAAAQaS+uBnLoNO4JEbAl4zSOXYIDZBDRgK83LRKIGiPtz/M=}"
+          scope: GLOBAL
+          username: "cxu20"
+      - basicSSHUserPrivateKey:
+          description: "延锋科技的gerrit权限账号"
+          id: "547e11e4-df08-45a0-aba7-ac0a176a22f2"
+          privateKeySource:
+            directEntry:
+              privateKey: "{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}"
+          scope: GLOBAL
+          username: "uwanm191"
+      - basicSSHUserPrivateKey:
+          description: "HOST79.16_INTEGRATION_only"
+          id: "9cac4d23-76a8-46b8-bebc-f870a3503289"
+          privateKeySource:
+            directEntry:
+              privateKey: "{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}"
+          scope: SYSTEM
+          username: "jenkins"
+      - basicSSHUserPrivateKey:
+          id: "712768c0-a802-4cd5-a0bb-c077dc2058a5"
+          privateKeySource:
+            directEntry:
+              privateKey: "{AQAAABAAAAGgs1U37/nVneOd57v7pFWfYGq/FjeWIYThm/b9s0Bv5GHf3ztIE8AG7RPG4an5oHkyEAEQogUMpCD6HxJkm3OmKE9VCTd0x+Jo8v/abNyD2sM/w9p3MJUm8zjDFe6PusNN4nxKD4hfMtKRfaGFxFrLTEntxADgSK8k+Pw3D3MsYtNxp/Zk3QhcXLlHmdrlQnh/ztIqQG+wMzOQH70FMmyOiKZ2J+bn+Z38SvCbqAH/aXMroq4XBc0SVnCmeAzxcZLIoRz1+Ut5wLxj4DbIxTPbKKS3yV1eRJ2pEeD3WXcvZ1WH6lbn5bY558SEZHeR3jGEktpvrN0zKimd/dGSLJo6M0kILuv7aTgPBSBakI5MmlL/iqgGP8ebIzNmdGqNz1fCpbAStyYDGvlLskvD3psdV4SsQvWQOcu67cJRkWoPrwCgljFTv7yXpLCqXA+WPS9a4SUBFuzLVSBXQlaPwAo1u9D2nIolJ3iXHZ/MDZ8+OCebrLkk+vR/kWadlg5nM1oSKfm/5gNwPZSyYJMsTT53Zz8mVUcLbU8KY0YHWLTXYbSdn0qr9Z9mJq5MGc3irnP6}"
+          scope: GLOBAL
+          username: "admins"
+      - basicSSHUserPrivateKey:
+          id: "d17f3dfb-f1d4-4c10-a0f8-4c3da135a720"
+          privateKeySource:
+            directEntry:
+              privateKey: "{AQAAABAAAAGg7pOnYkB4pzaJJnc2goI9BvmuQHW34MrhVuEYMHnCd/WBiLPB0FT9oL0x3Le0SxME5PpHcaEZwJnbzmViHLxBESqoFzl0U/DU1zDUelsDp4TZuOCFuWwOVDeLs+D8zifC2u4+6KmPaN43XAATCxC0gd0EXz/ivWaagJCp7cJ+XYGCfuqRtAlIwQj4TsyEqzzeb6wjMBKIHX6fm/VV1rlPewVTbnRItZRLSZhGNayvB3qN/OaogzXC6Ys+bSs5NcJiRMT6lVRF0AJWy0jaMQt1Ci6axEiNH2xdTBJWDmMXw5kKqQ+530rwr9po7DYpwmMhhIQEpkvjbns1mQnrmZoFFkecx7hIoKDAnqY+CwSHWr3/9D6x87eF4l9AG5ILxj3XCQwPXm6IKcQoOGSoknESLx8YlsRG2DHN4gWZVgUyZyFNAE+u2iAPNW9OnBd7Cyi72miwbGX+txkHzixfbpHdpMVc9qR2Pjze19EpiinOWm2tCcLseSfeBAexsET86QzqRjG+virwHE64RaFShXI55ovaDoSdDztMc+40DDKYML99gL2CdMhAz6Aan2EYp4Oz}"
+          scope: GLOBAL
+          username: "admins"
+      - basicSSHUserPrivateKey:
+          description: "t5500"
+          id: "3ae698aa-ed1d-4ec3-843e-34ccd8d4c870"
+          privateKeySource:
+            directEntry:
+              privateKey: "{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}"
+          scope: GLOBAL
+          username: "admins"
+      - usernamePassword:
+          description: "136.17.77.14_k8s_devops"
+          id: "383bd74d-3ca5-48ff-9eef-fb11cf9eeeeb"
+          password: "{AQAAABAAAAAQw5oNxw4zi3ydkFF+2X25LdYFibz0TW/Cq6A3z0u4u9U=}"
+          scope: GLOBAL
+          username: "admins"
+      - usernamePassword:
+          description: "test_git_pull"
+          id: "77d25317-f5b5-4931-b041-241615da3867"
+          password: "{AQAAABAAAAAQZML7zONuVPpHUyCLJTXYNjzXOcD3kdwKeyDIW5ZumgY=}"
+          scope: GLOBAL
+          username: "administrator"
+    - domain:
+        name: "STD+"
+    - domain:
+        name: "Cheetah"
+    - domain:
+        name: "136.18.229.26"
+        specifications:
+        - hostnameSpecification:
+            includes: "136.18.229.26"
+        - schemeSpecification:
+            schemes: "https"
+jenkins:
+  agentProtocols:
+  - "JNLP3-connect"
+  - "JNLP4-connect"
+  - "Ping"
+  authorizationStrategy:
+    roleBased:
+      roles:
+        global:
+        - assignments:
+          - "xwang83"
+          - "pliu5"
+          - "tding2"
+          - "wcai3"
+          - "cxu20"
+          - "LLI50"
+          - "cshen4"
+          - "hchen35"
+          - "zzhang44"
+          - "hshu"
+          - "sqiao4"
+          name: "admin"
+          pattern: ".*"
+          permissions:
+          - "Job/Move"
+          - "Job/Build"
+          - "Lockable Resources/View"
+          - "Credentials/Delete"
+          - "Credentials/ManageDomains"
+          - "Lockable Resources/Unlock"
+          - "View/Create"
+          - "Agent/Configure"
+          - "Job/Read"
+          - "Credentials/Update"
+          - "Agent/Create"
+          - "Job/Delete"
+          - "Agent/Build"
+          - "View/Configure"
+          - "Lockable Resources/Reserve"
+          - "Agent/Provision"
+          - "SCM/Tag"
+          - "Job/Create"
+          - "Job/Discover"
+          - "Artifactory/Promote"
+          - "Credentials/View"
+          - "Agent/Connect"
+          - "Agent/Delete"
+          - "Gerrit/Retrigger"
+          - "Run/Replay"
+          - "Agent/Disconnect"
+          - "Run/Delete"
+          - "Job/Cancel"
+          - "Artifactory/Release"
+          - "Overall/Read"
+          - "Run/Update"
+          - "Credentials/Create"
+          - "Overall/Administer"
+          - "Gerrit/ManualTrigger"
+          - "View/Delete"
+          - "Job/Configure"
+          - "Job Config History/DeleteEntry"
+          - "Job/Workspace"
+          - "View/Read"
+        - assignments:
+          - "ywang97"
+          name: "job_create"
+          pattern: ".*"
+          permissions:
+          - "Job/Move"
+          - "Job/Build"
+          - "Job/Create"
+          - "View/Create"
+          - "Job/Discover"
+          - "Job/Read"
+          - "Run/Replay"
+          - "Run/Delete"
+          - "Job/Cancel"
+          - "Overall/Read"
+          - "Run/Update"
+          - "Job/Delete"
+          - "View/Delete"
+          - "Job/Configure"
+          - "Job/Workspace"
+          - "View/Read"
+          - "Job Config History/DeleteEntry"
+          - "View/Configure"
+        - assignments:
+          - "ywang97"
+          - "zzhang22"
+          - "anonymous"
+          name: "read"
+          pattern: ".*"
+          permissions:
+          - "Overall/Read"
+          - "Job/Read"
+          - "View/Read"
+        items:
+        - assignments:
+          - "JDING13"
+          - "jding13"
+          name: "28819-CTV1\t"
+          pattern: "28819.*"
+          permissions:
+          - "Job/Cancel"
+          - "Job/Build"
+        - assignments:
+          - "anonymous"
+          name: "Anonymous"
+          pattern: "Common_LineDiffer"
+          permissions:
+          - "Job/Build"
+        - name: "CRS & 37W"
+          pattern: "25488.*|27228.*"
+          permissions:
+          - "Job/Move"
+          - "Job/Build"
+          - "Job/Create"
+          - "Job/Discover"
+          - "Job/Read"
+          - "Run/Replay"
+          - "Job/Cancel"
+          - "Run/Delete"
+          - "Run/Update"
+          - "Job/Delete"
+          - "Job/Configure"
+          - "Job/Workspace"
+        - assignments:
+          - "anonymous"
+          name: "ICI2.8"
+          pattern: ".*28665_ICI2.8.*"
+          permissions:
+          - "Job/Cancel"
+          - "Job/Build"
+          - "Job/Read"
+          - "Gerrit/Retrigger"
+        - assignments:
+          - "hli64"
+          name: "Pro_29475_SP2"
+          pattern: "29475_SP2_Nightl"
+          permissions:
+          - "Job/Build"
+          - "Job/Read"
+        - assignments:
+          - "sxiong5@yfve.com.cn"
+          - "dpeng3"
+          name: "pengd3"
+          pattern: "29675_SGM_H458_Nightly_pengdengfei_test"
+          permissions:
+          - "Job/Move"
+          - "Job/Build"
+          - "Job/Create"
+          - "Job/Discover"
+          - "Job/Read"
+          - "Gerrit/Retrigger"
+          - "Run/Replay"
+          - "Run/Delete"
+          - "Job/Cancel"
+          - "Run/Update"
+          - "Credentials/Create"
+          - "Gerrit/ManualTrigger"
+          - "Job/Workspace"
+        - assignments:
+          - "LLI50"
+          name: "testRole26360"
+          pattern: "26360.*"
+          permissions:
+          - "Job/Move"
+          - "Job/Build"
+          - "Lockable Resources/View"
+          - "Credentials/Delete"
+          - "Credentials/ManageDomains"
+          - "Lockable Resources/Unlock"
+          - "Job/Read"
+          - "Credentials/Update"
+          - "Job/Delete"
+          - "Lockable Resources/Reserve"
+          - "SCM/Tag"
+          - "Job/Create"
+          - "Job/Discover"
+          - "Artifactory/Promote"
+          - "Credentials/View"
+          - "Gerrit/Retrigger"
+          - "Run/Replay"
+          - "Run/Delete"
+          - "Job/Cancel"
+          - "Artifactory/Release"
+          - "Run/Update"
+          - "Credentials/Create"
+          - "Gerrit/ManualTrigger"
+          - "Job/Configure"
+          - "Job Config History/DeleteEntry"
+          - "Job/Workspace"
+  clouds:
+  - docker:
+      dockerApi:
+        connectTimeout: 60
+        dockerHost:
+          uri: "tcp://136.17.79.231:2375"
+        readTimeout: 60
+      exposeDockerHost: true
+      name: "HOST_11"
+      templates:
+      - connector:
+          ssh:
+            sshKeyStrategy:
+              manuallyConfiguredSSHKey:
+                credentialsId: "a38052f7-27ee-4015-b418-bc11fd518e5d"
+                sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+        dockerTemplateBase:
+          image: "136.17.79.231:5000/android:18.04.latest"
+          volumes:
+          - "/home/admins/Jenkins/:/home/admins/Jenkins/"
+          - "/home/admins/work/:/home/admins/work/"
+          - "/home/admins/software/:/home/admins/software/"
+          - "/home/admins/.ccache/:/home/jenkins/.ccache/"
+          - "/home/admins/.gitconfig:/home/jenkins/.gitconfig:ro"
+          - "/home/admins/.ssh/:/home/jenkins/.ssh/:ro"
+          - "/home/admins/.subversion/:/home/jenkins/.subversion/:ro"
+          - "/etc/localtime:/etc/localtime:ro"
+          volumesString: |-
+            /home/admins/Jenkins/:/home/admins/Jenkins/
+            /home/admins/work/:/home/admins/work/
+            /home/admins/software/:/home/admins/software/
+            /home/admins/.ccache/:/home/jenkins/.ccache/
+            /home/admins/.gitconfig:/home/jenkins/.gitconfig:ro
+            /home/admins/.ssh/:/home/jenkins/.ssh/:ro
+            /home/admins/.subversion/:/home/jenkins/.subversion/:ro
+            /etc/localtime:/etc/localtime:ro
+        labelString: "HOST_11_android"
+        mode: EXCLUSIVE
+        name: "HOST_11_android"
+        nodeProperties:
+        - toolLocation:
+            locations:
+            - home: "/usr/bin/"
+              key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+        pullStrategy: PULL_ALWAYS
+        pullTimeout: 300
+        remoteFs: "/home/jenkins"
+  - docker:
+      dockerApi:
+        connectTimeout: 60
+        dockerHost:
+          uri: "tcp://136.17.79.232:2375"
+        readTimeout: 60
+      exposeDockerHost: true
+      name: "HOST_12"
+      templates:
+      - connector:
+          ssh:
+            sshKeyStrategy:
+              manuallyConfiguredSSHKey:
+                credentialsId: "30057e60-5e1d-4511-867b-8dc5586e5fc4"
+                sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+        dockerTemplateBase:
+          image: "136.17.79.231:5000/android:18.04.latest"
+          volumes:
+          - "/home/admins/Jenkins/:/home/admins/Jenkins/"
+          - "/home/admins/work/:/home/admins/work/"
+          - "/home/admins/server/:/home/admins/server/"
+          - "/home/admins/software/:/home/admins/software/"
+          - "/home/admins/.ccache/:/home/jenkins/.ccache/"
+          - "/home/admins/.gitconfig:/home/jenkins/.gitconfig:ro"
+          - "/home/admins/.ssh/:/home/jenkins/.ssh/:ro"
+          - "/home/admins/.subversion/:/home/jenkins/.subversion/:ro"
+          - "/home/admins/Coverity_temp:/home/admins/Coverity_temp"
+          - "/etc/localtime:/etc/localtime:ro"
+          volumesString: |-
+            /home/admins/Jenkins/:/home/admins/Jenkins/
+            /home/admins/work/:/home/admins/work/
+            /home/admins/server/:/home/admins/server/
+            /home/admins/software/:/home/admins/software/
+            /home/admins/.ccache/:/home/jenkins/.ccache/
+            /home/admins/.gitconfig:/home/jenkins/.gitconfig:ro
+            /home/admins/.ssh/:/home/jenkins/.ssh/:ro
+            /home/admins/.subversion/:/home/jenkins/.subversion/:ro
+            /home/admins/Coverity_temp:/home/admins/Coverity_temp
+            /etc/localtime:/etc/localtime:ro
+        labelString: "HOST_12_android"
+        mode: EXCLUSIVE
+        name: "HOST_12_android"
+        pullStrategy: PULL_ALWAYS
+        pullTimeout: 300
+        remoteFs: "/home/jenkins"
+  - docker:
+      dockerApi:
+        connectTimeout: 60
+        dockerHost:
+          uri: "tcp://136.17.79.233:2375"
+        readTimeout: 60
+      exposeDockerHost: true
+      name: "HOST_13"
+      templates:
+      - connector:
+          ssh:
+            sshKeyStrategy:
+              manuallyConfiguredSSHKey:
+                credentialsId: "e1724160-4a5b-40fd-8a23-38f5853aa6eb"
+                sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+        dockerTemplateBase:
+          image: "136.17.79.231:5000/android:18.04.latest"
+          volumes:
+          - "/home/admins/Jenkins/:/home/admins/Jenkins/:rw"
+          - "/home/admins/work/:/home/admins/work/:rw"
+          - "/home/admins/software/:/home/admins/software/:rw"
+          - "/home/admins/Coverity_temp/:/home/admins/Coverity_temp/:rw"
+          - "/home/admins/Artifacts_temp/:/home/admins/Artifacts_temp/:rw"
+          - "/home/admins/.ccache/:/home/jenkins/.ccache/:rw"
+          - "/home/admins/.gitconfig:/home/jenkins/.gitconfig:ro"
+          - "/home/admins/.ssh/:/home/jenkins/.ssh/:ro"
+          - "/home/admins/.subversion/:/home/jenkins/.subversion/:ro"
+          - "/etc/localtime:/etc/localtime:ro"
+          volumesString: |-
+            /home/admins/Jenkins/:/home/admins/Jenkins/:rw
+            /home/admins/work/:/home/admins/work/:rw
+            /home/admins/software/:/home/admins/software/:rw
+            /home/admins/Coverity_temp/:/home/admins/Coverity_temp/:rw
+            /home/admins/Artifacts_temp/:/home/admins/Artifacts_temp/:rw
+            /home/admins/.ccache/:/home/jenkins/.ccache/:rw
+            /home/admins/.gitconfig:/home/jenkins/.gitconfig:ro
+            /home/admins/.ssh/:/home/jenkins/.ssh/:ro
+            /home/admins/.subversion/:/home/jenkins/.subversion/:ro
+            /etc/localtime:/etc/localtime:ro
+        labelString: "HOST_13_android"
+        mode: EXCLUSIVE
+        name: "HOST_13_android"
+        nodeProperties:
+        - toolLocation:
+            locations:
+            - home: "/usr/bin/"
+              key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+        pullStrategy: PULL_ALWAYS
+        pullTimeout: 300
+        remoteFs: "/home/jenkins"
+  - docker:
+      dockerApi:
+        connectTimeout: 60
+        dockerHost:
+          uri: "tcp://136.17.79.233:2375"
+        readTimeout: 60
+      exposeDockerHost: true
+      name: "HOST_13_Linux_26458"
+      templates:
+      - connector:
+          ssh:
+            sshKeyStrategy:
+              manuallyConfiguredSSHKey:
+                credentialsId: "e1724160-4a5b-40fd-8a23-38f5853aa6eb"
+                sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+        dockerTemplateBase:
+          image: "136.17.79.231:5000/linux/26458:16.04.latest"
+          volumes:
+          - "/home/admins/Jenkins/:/home/admins/Jenkins/"
+          - "/home/admins/work/:/home/admins/work/"
+          - "/home/admins/software/:/home/admins/software/"
+          - "/home/admins/.ccache/:/home/jenkins/.ccache/"
+          - "/home/admins/.gitconfig:/home/jenkins/.gitconfig:ro"
+          - "/home/admins/.ssh/:/home/jenkins/.ssh/:ro"
+          - "/home/admins/.subversion/:/home/jenkins/.subversion/:ro"
+          - "/etc/localtime:/etc/localtime:ro"
+          volumesString: |-
+            /home/admins/Jenkins/:/home/admins/Jenkins/
+            /home/admins/work/:/home/admins/work/
+            /home/admins/software/:/home/admins/software/
+            /home/admins/.ccache/:/home/jenkins/.ccache/
+            /home/admins/.gitconfig:/home/jenkins/.gitconfig:ro
+            /home/admins/.ssh/:/home/jenkins/.ssh/:ro
+            /home/admins/.subversion/:/home/jenkins/.subversion/:ro
+            /etc/localtime:/etc/localtime:ro
+        labelString: "HOST_13_Linux_26458"
+        mode: EXCLUSIVE
+        name: "HOST_13_Linux_26458"
+        nodeProperties:
+        - toolLocation:
+            locations:
+            - home: "/usr/bin/"
+              key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+        pullStrategy: PULL_ALWAYS
+        pullTimeout: 300
+        remoteFs: "/home/jenkins"
+  - docker:
+      dockerApi:
+        connectTimeout: 60
+        dockerHost:
+          uri: "tcp://136.17.79.240:2375"
+        readTimeout: 60
+      name: "HOST_20"
+      templates:
+      - connector:
+          ssh:
+            sshKeyStrategy:
+              manuallyConfiguredSSHKey:
+                credentialsId: "cec32ae9-a355-4538-a284-8e8d7af30701"
+                sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+        dockerTemplateBase:
+          extraHosts:
+          - "slhepv0121.ctsslou.visteon.com:136.16.200.8"
+          - "slhepv0122.ctsslou.visteon.com:136.16.200.11"
+          - "slhepv0123.ctsslou.visteon.com:136.16.200.10"
+          - "slhepv0124.ctsslou.visteon.com:136.16.200.9"
+          - "slhepv0125.ctsslou.visteon.com:136.16.200.12"
+          - "slhepv0126.ctsslou.visteon.com:136.16.200.13"
+          - "cov.group9.visteon.com:136.16.200.12"
+          - "cov.group1.visteon.com:136.16.200.13"
+          extraHostsString: |-
+            slhepv0121.ctsslou.visteon.com:136.16.200.8
+            slhepv0122.ctsslou.visteon.com:136.16.200.11
+            slhepv0123.ctsslou.visteon.com:136.16.200.10
+            slhepv0124.ctsslou.visteon.com:136.16.200.9
+            slhepv0125.ctsslou.visteon.com:136.16.200.12
+            slhepv0126.ctsslou.visteon.com:136.16.200.13
+            cov.group9.visteon.com:136.16.200.12
+            cov.group1.visteon.com:136.16.200.13
+          image: "136.17.79.231:5000/qnx:18.04.latest"
+          volumes:
+          - "/home/admins/Jenkins/:/home/admins/Jenkins/"
+          - "/home/admins/work/:/home/admins/work/"
+          - "/home/admins/software/:/home/admins/software/"
+          - "/home/admins/.ccache/:/home/jenkins/.ccache/"
+          - "/home/admins/.gitconfig:/home/jenkins/.gitconfig:ro"
+          - "/home/admins/.ssh/:/home/jenkins/.ssh/:ro"
+          - "/home/admins/.subversion/:/home/jenkins/.subversion/:ro"
+          - "/etc/localtime:/etc/localtime:ro"
+          - "/home/admins/Coverity_temp:/home/admins/Coverity_temp"
+          - "/home/admins/.qnx/license:/home/jenkins/.qnx/license"
+          - "/usr/bin/simg2img:/usr/bin/simg2img"
+          volumesString: |-
+            /home/admins/Jenkins/:/home/admins/Jenkins/
+            /home/admins/work/:/home/admins/work/
+            /home/admins/software/:/home/admins/software/
+            /home/admins/.ccache/:/home/jenkins/.ccache/
+            /home/admins/.gitconfig:/home/jenkins/.gitconfig:ro
+            /home/admins/.ssh/:/home/jenkins/.ssh/:ro
+            /home/admins/.subversion/:/home/jenkins/.subversion/:ro
+            /etc/localtime:/etc/localtime:ro
+            /home/admins/Coverity_temp:/home/admins/Coverity_temp
+            /home/admins/.qnx/license:/home/jenkins/.qnx/license
+            /usr/bin/simg2img:/usr/bin/simg2img
+        labelString: "HOST_20_qnx"
+        mode: EXCLUSIVE
+        name: "HOST_20_qnx"
+        nodeProperties:
+        - toolLocation:
+            locations:
+            - home: "/usr/bin/"
+              key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+            - home: "/home/admins/software/RTC-BuildSystem-Toolkit-Linux64-6.0.6.1/jazz/buildsystem/buildtoolkit"
+              key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6.1"
+        pullStrategy: PULL_ALWAYS
+        pullTimeout: 300
+        remoteFs: "/home/jenkins"
+  - docker:
+      dockerApi:
+        connectTimeout: 60
+        dockerHost:
+          uri: "tcp://136.17.79.240:2375"
+        readTimeout: 60
+      exposeDockerHost: true
+      name: "HOST_20_Linux_25488"
+      templates:
+      - connector:
+          ssh:
+            sshKeyStrategy:
+              manuallyConfiguredSSHKey:
+                credentialsId: "cec32ae9-a355-4538-a284-8e8d7af30701"
+                sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+        dockerTemplateBase:
+          extraHosts:
+          - "slhepv0121.ctsslou.visteon.com:136.16.200.8"
+          - "slhepv0122.ctsslou.visteon.com:136.16.200.11"
+          - "slhepv0123.ctsslou.visteon.com:136.16.200.10"
+          - "slhepv0124.ctsslou.visteon.com:136.16.200.9"
+          - "slhepv0125.ctsslou.visteon.com:136.16.200.12"
+          - "slhepv0126.ctsslou.visteon.com:136.16.200.13"
+          extraHostsString: |-
+            slhepv0121.ctsslou.visteon.com:136.16.200.8
+            slhepv0122.ctsslou.visteon.com:136.16.200.11
+            slhepv0123.ctsslou.visteon.com:136.16.200.10
+            slhepv0124.ctsslou.visteon.com:136.16.200.9
+            slhepv0125.ctsslou.visteon.com:136.16.200.12
+            slhepv0126.ctsslou.visteon.com:136.16.200.13
+          image: "136.17.79.231:5000/linux/25488:16.04.latest"
+          volumes:
+          - "/home/admins/Jenkins/:/home/admins/Jenkins/"
+          - "/home/admins/work/:/home/admins/work/"
+          - "/home/admins/software/:/home/admins/software/"
+          - "/home/admins/.ccache/:/home/jenkins/.ccache/"
+          - "/home/admins/.gitconfig:/home/jenkins/.gitconfig:ro"
+          - "/home/admins/.ssh/:/home/jenkins/.ssh/:ro"
+          - "/home/admins/.subversion/:/home/jenkins/.subversion/:ro"
+          - "/etc/localtime:/etc/localtime:ro"
+          volumesString: |-
+            /home/admins/Jenkins/:/home/admins/Jenkins/
+            /home/admins/work/:/home/admins/work/
+            /home/admins/software/:/home/admins/software/
+            /home/admins/.ccache/:/home/jenkins/.ccache/
+            /home/admins/.gitconfig:/home/jenkins/.gitconfig:ro
+            /home/admins/.ssh/:/home/jenkins/.ssh/:ro
+            /home/admins/.subversion/:/home/jenkins/.subversion/:ro
+            /etc/localtime:/etc/localtime:ro
+        labelString: "HOST_20_Linux_25488"
+        mode: EXCLUSIVE
+        name: "HOST_20_Linux_25488"
+        nodeProperties:
+        - toolLocation:
+            locations:
+            - home: "/home/admins/software/RTC-BuildSystem-Toolkit-Linux64-6.0.6.1/jazz/buildsystem/buildtoolkit"
+              key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6.1"
+        pullStrategy: PULL_ALWAYS
+        pullTimeout: 300
+        remoteFs: "/home/jenkins"
+  - docker:
+      dockerApi:
+        connectTimeout: 60
+        dockerHost:
+          uri: "tcp://136.17.79.240:2375"
+        readTimeout: 60
+      exposeDockerHost: true
+      name: "HOST_20_Linux_27228"
+      templates:
+      - connector:
+          ssh:
+            sshKeyStrategy:
+              manuallyConfiguredSSHKey:
+                credentialsId: "cec32ae9-a355-4538-a284-8e8d7af30701"
+                sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+        dockerTemplateBase:
+          extraHosts:
+          - "slhepv0121.ctsslou.visteon.com:136.16.200.8"
+          - "slhepv0122.ctsslou.visteon.com:136.16.200.11"
+          - "slhepv0123.ctsslou.visteon.com:136.16.200.10"
+          - "slhepv0124.ctsslou.visteon.com:136.16.200.9"
+          - "slhepv0125.ctsslou.visteon.com:136.16.200.12"
+          - "slhepv0126.ctsslou.visteon.com:136.16.200.13"
+          extraHostsString: |-
+            slhepv0121.ctsslou.visteon.com:136.16.200.8
+            slhepv0122.ctsslou.visteon.com:136.16.200.11
+            slhepv0123.ctsslou.visteon.com:136.16.200.10
+            slhepv0124.ctsslou.visteon.com:136.16.200.9
+            slhepv0125.ctsslou.visteon.com:136.16.200.12
+            slhepv0126.ctsslou.visteon.com:136.16.200.13
+          image: "136.17.79.231:5000/linux/27228:16.04.latest"
+          volumes:
+          - "/home/admins/Jenkins/:/home/admins/Jenkins/"
+          - "/home/admins/work/:/home/admins/work/"
+          - "/home/admins/software/:/home/admins/software/"
+          - "/home/admins/.ccache/:/home/jenkins/.ccache/"
+          - "/home/admins/.gitconfig:/home/jenkins/.gitconfig:ro"
+          - "/home/admins/.ssh/:/home/jenkins/.ssh/:ro"
+          - "/home/admins/.subversion/:/home/jenkins/.subversion/:ro"
+          - "/etc/localtime:/etc/localtime:ro"
+          - "/home/admins/Coverity_temp:/home/admins/Coverity_temp"
+          volumesString: |-
+            /home/admins/Jenkins/:/home/admins/Jenkins/
+            /home/admins/work/:/home/admins/work/
+            /home/admins/software/:/home/admins/software/
+            /home/admins/.ccache/:/home/jenkins/.ccache/
+            /home/admins/.gitconfig:/home/jenkins/.gitconfig:ro
+            /home/admins/.ssh/:/home/jenkins/.ssh/:ro
+            /home/admins/.subversion/:/home/jenkins/.subversion/:ro
+            /etc/localtime:/etc/localtime:ro
+            /home/admins/Coverity_temp:/home/admins/Coverity_temp
+        labelString: "HOST_20_Linux_27228"
+        mode: EXCLUSIVE
+        name: "HOST_20_Linux_27228"
+        nodeProperties:
+        - toolLocation:
+            locations:
+            - home: "/home/admins/software/RTC-BuildSystem-Toolkit-Linux64-6.0.6.1/jazz/buildsystem/buildtoolkit"
+              key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6.1"
+        pullStrategy: PULL_ALWAYS
+        pullTimeout: 300
+        remoteFs: "/home/jenkins"
+  - docker:
+      dockerApi:
+        connectTimeout: 60
+        dockerHost:
+          uri: "tcp://136.17.79.238:2375"
+        readTimeout: 60
+      exposeDockerHost: true
+      name: "HOST_18"
+      templates:
+      - connector:
+          ssh:
+            sshKeyStrategy:
+              manuallyConfiguredSSHKey:
+                credentialsId: "d470a47d-c45e-4043-9ce3-40708052ad0c"
+                sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+        dockerTemplateBase:
+          image: "136.17.79.231:5000/android:18.04.latest"
+          volumes:
+          - "/home/admins/Jenkins/:/home/admins/Jenkins/:rw"
+          - "/home/admins/work/:/home/admins/work/:rw"
+          - "/home/admins/software/:/home/admins/software/:rw"
+          - "/home/admins/server/:/home/admins/server/:rw"
+          - "/home/admins/Coverity_temp/:/home/admins/Coverity_temp/:rw"
+          - "/home/admins/Artifacts_temp/:/home/admins/Artifacts_temp/:rw"
+          - "/home/admins/.ccache/:/home/jenkins/.ccache/:rw"
+          - "/home/admins/.gitconfig:/home/jenkins/.gitconfig:ro"
+          - "/home/admins/.ssh/:/home/jenkins/.ssh/:ro"
+          - "/home/admins/.subversion/:/home/jenkins/.subversion/:ro"
+          - "/etc/localtime:/etc/localtime:ro"
+          volumesString: |-
+            /home/admins/Jenkins/:/home/admins/Jenkins/:rw
+            /home/admins/work/:/home/admins/work/:rw
+            /home/admins/software/:/home/admins/software/:rw
+            /home/admins/server/:/home/admins/server/:rw
+            /home/admins/Coverity_temp/:/home/admins/Coverity_temp/:rw
+            /home/admins/Artifacts_temp/:/home/admins/Artifacts_temp/:rw
+            /home/admins/.ccache/:/home/jenkins/.ccache/:rw
+            /home/admins/.gitconfig:/home/jenkins/.gitconfig:ro
+            /home/admins/.ssh/:/home/jenkins/.ssh/:ro
+            /home/admins/.subversion/:/home/jenkins/.subversion/:ro
+            /etc/localtime:/etc/localtime:ro
+        labelString: "HOST_18_android"
+        mode: EXCLUSIVE
+        name: "HOST_18_android"
+        nodeProperties:
+        - toolLocation:
+            locations:
+            - home: "/usr/bin/"
+              key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+        pullStrategy: PULL_ALWAYS
+        pullTimeout: 300
+        remoteFs: "/home/jenkins"
+  - docker:
+      dockerApi:
+        connectTimeout: 60
+        dockerHost:
+          uri: "tcp://136.17.79.237:2375"
+        readTimeout: 60
+      exposeDockerHost: true
+      name: "HOST_17"
+      templates:
+      - connector:
+          ssh:
+            sshKeyStrategy:
+              manuallyConfiguredSSHKey:
+                credentialsId: "7eb55dd1-b609-4bf4-ae11-73fc65011037"
+                sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+        dockerTemplateBase:
+          image: "136.17.79.231:5000/android:18.04.latest"
+          volumes:
+          - "/home/admins/Jenkins/:/home/admins/Jenkins/:rw"
+          - "/home/admins/work/:/home/admins/work/:rw"
+          - "/home/admins/software/:/home/admins/software/:rw"
+          - "/home/admins/Coverity_temp/:/home/admins/Coverity_temp/:rw"
+          - "/home/admins/Artifacts_temp/:/home/admins/Artifacts_temp/:rw"
+          - "/home/admins/.ccache/:/home/jenkins/.ccache/:rw"
+          - "/home/admins/.gitconfig:/home/jenkins/.gitconfig:ro"
+          - "/home/admins/.ssh/:/home/jenkins/.ssh/:ro"
+          - "/home/admins/.subversion/:/home/jenkins/.subversion/:ro"
+          - "/etc/localtime:/etc/localtime:ro"
+          volumesString: |-
+            /home/admins/Jenkins/:/home/admins/Jenkins/:rw
+            /home/admins/work/:/home/admins/work/:rw
+            /home/admins/software/:/home/admins/software/:rw
+            /home/admins/Coverity_temp/:/home/admins/Coverity_temp/:rw
+            /home/admins/Artifacts_temp/:/home/admins/Artifacts_temp/:rw
+            /home/admins/.ccache/:/home/jenkins/.ccache/:rw
+            /home/admins/.gitconfig:/home/jenkins/.gitconfig:ro
+            /home/admins/.ssh/:/home/jenkins/.ssh/:ro
+            /home/admins/.subversion/:/home/jenkins/.subversion/:ro
+            /etc/localtime:/etc/localtime:ro
+        labelString: "HOST_17_android"
+        mode: EXCLUSIVE
+        name: "HOST_17_android"
+        nodeProperties:
+        - toolLocation:
+            locations:
+            - home: "/usr/bin/"
+              key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+        pullStrategy: PULL_ALWAYS
+        pullTimeout: 300
+        remoteFs: "/home/jenkins"
+  - docker:
+      dockerApi:
+        connectTimeout: 60
+        dockerHost:
+          uri: "tcp://136.17.79.16:2375"
+        readTimeout: 60
+      exposeDockerHost: true
+      name: "HOST_79_16"
+      templates:
+      - connector:
+          ssh:
+            sshKeyStrategy:
+              manuallyConfiguredSSHKey:
+                credentialsId: "9cac4d23-76a8-46b8-bebc-f870a3503289"
+                sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+        dockerTemplateBase:
+          image: "136.17.79.231:5000/android:18.04.latest"
+          volumes:
+          - "/home/admins/Jenkins/:/home/admins/Jenkins/:rw"
+          - "/home/admins/work/:/home/admins/work/:rw"
+          - "/home/admins/software/:/home/admins/software/:rw"
+          - "/home/admins/Coverity_temp/:/home/admins/Coverity_temp/:rw"
+          - "/home/admins/Artifacts_temp/:/home/admins/Artifacts_temp/:rw"
+          - "/home/admins/.ccache/:/home/jenkins/.ccache/:rw"
+          - "/home/admins/.gitconfig:/home/jenkins/.gitconfig:ro"
+          - "/home/admins/.ssh/:/home/jenkins/.ssh/:ro"
+          - "/home/admins/.subversion/:/home/jenkins/.subversion/:ro"
+          - "/etc/localtime:/etc/localtime:ro"
+          volumesString: |-
+            /home/admins/Jenkins/:/home/admins/Jenkins/:rw
+            /home/admins/work/:/home/admins/work/:rw
+            /home/admins/software/:/home/admins/software/:rw
+            /home/admins/Coverity_temp/:/home/admins/Coverity_temp/:rw
+            /home/admins/Artifacts_temp/:/home/admins/Artifacts_temp/:rw
+            /home/admins/.ccache/:/home/jenkins/.ccache/:rw
+            /home/admins/.gitconfig:/home/jenkins/.gitconfig:ro
+            /home/admins/.ssh/:/home/jenkins/.ssh/:ro
+            /home/admins/.subversion/:/home/jenkins/.subversion/:ro
+            /etc/localtime:/etc/localtime:ro
+        labelString: "HOST_79_16_android"
+        mode: EXCLUSIVE
+        name: "HOST_79_16_android"
+        nodeProperties:
+        - toolLocation:
+            locations:
+            - home: "/usr/bin/"
+              key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+        pullStrategy: PULL_ALWAYS
+        pullTimeout: 300
+        remoteFs: "/home/jenkins"
+  crumbIssuer:
+    standard:
+      excludeClientIPFromCrumb: false
+  disableRememberMe: false
+  globalNodeProperties:
+  - toolLocation:
+      locations:
+      - home: "/usr/java/jre1.8.0_151/"
+        key: "hudson.model.JDK$DescriptorImpl@"
+  labelString: "master"
+  markupFormatter: "plainText"
+  mode: EXCLUSIVE
+  myViewsTabBar: "standard"
+  nodes:
+  - permanent:
+      labelString: "INTEGRATION_FOR_TESTING"
+      launcher:
+        jnlp:
+          workDirSettings:
+            disabled: false
+            failIfWorkDirIsMissing: false
+            internalDir: "remoting"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_FOR_TESTING"
+      nodeProperties:
+      - toolLocation:
+          locations:
+          - home: "D:\\Installed\\Git\\bin\\git.exe"
+            key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+      numExecutors: 1
+      remoteFS: "D:\\Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_LINUX_11"
+      launcher:
+        ssh:
+          credentialsId: "9f1938b9-e435-44eb-8d01-0bd747faabc5"
+          host: "136.17.79.231"
+          launchTimeoutSeconds: 5
+          maxNumRetries: 1
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "knownHostsFileKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_LINUX_11"
+      nodeDescription: "Jenkins node running in integration server No.11"
+      nodeProperties:
+      - toolLocation:
+          locations:
+          - home: "/usr/bin/git"
+            key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+      numExecutors: 6
+      remoteFS: "/home/admins/Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_LINUX_12"
+      launcher:
+        ssh:
+          credentialsId: "9f1938b9-e435-44eb-8d01-0bd747faabc5"
+          host: "136.17.79.232"
+          launchTimeoutSeconds: 5
+          maxNumRetries: 1
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "knownHostsFileKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_LINUX_12"
+      nodeDescription: "Jenkins node running in integration server No.12"
+      nodeProperties:
+      - envVars:
+          env:
+          - key: "REPO_URL"
+            value: "ssh://136.17.76.164:29418/Common/tools/repo"
+      - toolLocation:
+          locations:
+          - home: "/usr/bin/git"
+            key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+      numExecutors: 6
+      remoteFS: "/home/admins/Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_LINUX_13"
+      launcher:
+        ssh:
+          credentialsId: "9f1938b9-e435-44eb-8d01-0bd747faabc5"
+          host: "136.17.79.233"
+          launchTimeoutSeconds: 5
+          maxNumRetries: 1
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "knownHostsFileKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_LINUX_13"
+      nodeDescription: "Jenkins node running in integration server No.13"
+      nodeProperties:
+      - envVars:
+          env:
+          - key: "REPO_URL"
+            value: "ssh://136.17.76.164:29418/Common/tools/repo"
+      - toolLocation:
+          locations:
+          - home: "/usr/bin/git"
+            key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+      numExecutors: 6
+      remoteFS: "/home/admins/Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_LINUX_14"
+      launcher:
+        ssh:
+          credentialsId: "9f1938b9-e435-44eb-8d01-0bd747faabc5"
+          host: "136.17.79.234"
+          launchTimeoutSeconds: 5
+          maxNumRetries: 1
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "knownHostsFileKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_LINUX_14"
+      nodeDescription: "Jenkins node running in integration server No.14"
+      numExecutors: 1
+      remoteFS: "/home/admins/Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_LINUX_15"
+      launcher:
+        ssh:
+          credentialsId: "9f1938b9-e435-44eb-8d01-0bd747faabc5"
+          host: "136.17.79.235"
+          launchTimeoutSeconds: 5
+          maxNumRetries: 1
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "knownHostsFileKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_LINUX_15"
+      nodeDescription: "Jenkins node running in integration server No.15"
+      numExecutors: 1
+      remoteFS: "/home/admins/Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_LINUX_16"
+      launcher:
+        ssh:
+          credentialsId: "9f1938b9-e435-44eb-8d01-0bd747faabc5"
+          host: "136.17.79.236"
+          launchTimeoutSeconds: 5
+          maxNumRetries: 1
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "knownHostsFileKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_LINUX_16"
+      nodeDescription: "Jenkins node running in integration server No.16"
+      nodeProperties:
+      - toolLocation:
+          locations:
+          - home: "/usr/bin/git"
+            key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+      numExecutors: 4
+      remoteFS: "/home/admins/Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_LINUX_17"
+      launcher:
+        ssh:
+          credentialsId: "9f1938b9-e435-44eb-8d01-0bd747faabc5"
+          host: "136.17.79.237"
+          launchTimeoutSeconds: 5
+          maxNumRetries: 1
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "knownHostsFileKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_LINUX_17"
+      nodeDescription: "Jenkins node running in integration server No.17"
+      nodeProperties:
+      - toolLocation:
+          locations:
+          - home: "/home/admins/software/EWM-BuildSystem-Toolkit-Linux64-7.0.1/jazz/buildsystem/buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_7.0.1"
+      numExecutors: 4
+      remoteFS: "/home/admins/Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_LINUX_18"
+      launcher:
+        ssh:
+          credentialsId: "9f1938b9-e435-44eb-8d01-0bd747faabc5"
+          host: "136.17.79.238"
+          launchTimeoutSeconds: 5
+          maxNumRetries: 1
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_LINUX_18"
+      nodeDescription: "Jenkins node running in integration server No.18"
+      nodeProperties:
+      - envVars:
+          env:
+          - key: "REPO_URL"
+            value: "ssh://136.17.76.164:29418/Common/tools/repo"
+      - toolLocation:
+          locations:
+          - home: "/home/admins/software/RTC-BuildSystem-Toolkit-Linux64-6.0.6.1/jazz/buildsystem/buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6.1"
+          - home: "/usr/bin/git"
+            key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+          - home: "/home/admins/software/EWM-BuildSystem-Toolkit-Linux64-7.0.1/jazz/buildsystem/buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_7.0.1"
+      numExecutors: 6
+      remoteFS: "/home/admins/Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_LINUX_19"
+      launcher:
+        ssh:
+          credentialsId: "9f1938b9-e435-44eb-8d01-0bd747faabc5"
+          host: "136.17.79.239"
+          maxNumRetries: 0
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "knownHostsFileKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_LINUX_19"
+      nodeDescription: "Jenkins node running in integration server No.19"
+      nodeProperties:
+      - toolLocation:
+          locations:
+          - home: "/home/admins/software/RTC-BuildSystem-Toolkit-Linux64-6.0.6/jazz/buildsystem/buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6"
+      numExecutors: 5
+      remoteFS: "/home/admins/Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_LINUX_20"
+      launcher:
+        ssh:
+          credentialsId: "9f1938b9-e435-44eb-8d01-0bd747faabc5"
+          host: "136.17.79.240"
+          launchTimeoutSeconds: 5
+          maxNumRetries: 1
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "knownHostsFileKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_LINUX_20"
+      nodeDescription: "Jenkins node running in integration server No.20"
+      nodeProperties:
+      - toolLocation:
+          locations:
+          - home: "/usr/bin/git"
+            key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+          - home: "/home/admins/software/EWM-BuildSystem-Toolkit-Linux64-7.0.1/jazz/buildsystem/buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_7.0.1"
+      numExecutors: 10
+      remoteFS: "/home/admins/Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_LINUX_79_16"
+      launcher:
+        ssh:
+          credentialsId: "9f1938b9-e435-44eb-8d01-0bd747faabc5"
+          host: "136.17.79.16"
+          launchTimeoutSeconds: 5
+          maxNumRetries: 1
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_LINUX_79_16"
+      nodeDescription: "Jenkins node running in integration server No.79.16"
+      nodeProperties:
+      - envVars:
+          env:
+          - key: "REPO_URL"
+            value: "ssh://136.17.76.164:29418/Common/tools/repo"
+      - toolLocation:
+          locations:
+          - home: "/usr/bin/git"
+            key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+          - home: "/usr/lib/jvm/java-8-openjdk-amd64/bin"
+            key: "hudson.model.JDK$DescriptorImpl@"
+          - home: "/home/admins/software/EWM-BuildSystem-Toolkit-Linux64-7.0.1/jazz/buildsystem/buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_7.0.1"
+      numExecutors: 10
+      remoteFS: "/home/admins/Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_LINUX_K8s"
+      launcher:
+        ssh:
+          credentialsId: "383bd74d-3ca5-48ff-9eef-fb11cf9eeeeb"
+          host: "136.17.77.14"
+          launchTimeoutSeconds: 5
+          maxNumRetries: 1
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "knownHostsFileKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_LINUX_K8s"
+      nodeDescription: "Jenkins node running in integration server K8s"
+      nodeProperties:
+      - toolLocation:
+          locations:
+          - home: "/usr/bin/git"
+            key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+      numExecutors: 4
+      remoteFS: "/home/admins/Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_WINDOWS_01"
+      launcher:
+        jnlp:
+          workDirSettings:
+            disabled: true
+            failIfWorkDirIsMissing: false
+            internalDir: "remoting"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_WINDOWS_01"
+      nodeProperties:
+      - envInject:
+          propertiesFilePath: "C:\\curl\\bin;"
+          unsetSystemVariables: false
+      - toolLocation:
+          locations:
+          - home: "C:\\RTC-BuildSystem-Toolkit-Win64-6.0.6.1\\jazz\\buildsystem\\\
+              buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6.1"
+          - home: "C:\\Program Files\\Git\\bin\\git"
+            key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+          - home: "C:\\RTC-BuildSystem-Toolkit-Win64-6.0.6\\jazz\\buildsystem\\buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6"
+          - home: "C:\\EWM-BuildSystem-Toolkit-Win64-7.0.1\\jazz\\buildsystem\\buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_7.0.1"
+      numExecutors: 4
+      remoteFS: "D:\\Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_WINDOWS_02"
+      launcher:
+        jnlp:
+          workDirSettings:
+            disabled: false
+            failIfWorkDirIsMissing: false
+            internalDir: "remoting"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_WINDOWS_02"
+      nodeDescription: "Jenkins node running in integration server No.02"
+      nodeProperties:
+      - toolLocation:
+          locations:
+          - home: "C:\\RTC-BuildSystem-Toolkit-Win64-6.0.6.1\\jazz\\buildsystem\\\
+              buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6.1"
+          - home: "C:\\RTC-BuildSystem-Toolkit-Win64-6.0.6\\jazz\\buildsystem\\buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6"
+      numExecutors: 4
+      remoteFS: "D:\\Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_WINDOWS_03"
+      launcher:
+        jnlp:
+          workDirSettings:
+            disabled: false
+            failIfWorkDirIsMissing: false
+            internalDir: "remoting"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_WINDOWS_03"
+      nodeDescription: "Jenkins node running in integration server No.03"
+      nodeProperties:
+      - envInject:
+          propertiesFilePath: "C:\\curl\\bin;C:\\Program Files\\Git\\usr\\bin"
+          unsetSystemVariables: false
+      - toolLocation:
+          locations:
+          - home: "C:\\EWM-BuildSystem-Toolkit-Win64-7.0.1\\jazz\\buildsystem\\buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_7.0.1"
+          - home: "C:\\Program Files\\Git\\bin\\git"
+            key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+          - home: "C:\\RTC-BuildSystem-Toolkit-Win64-6.0.6\\jazz\\buildsystem\\buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6"
+          - home: "C:\\RTC-BuildSystem-Toolkit-Win64-6.0.6.1\\jazz\\buildsystem\\\
+              buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6.1"
+      numExecutors: 8
+      remoteFS: "D:\\Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_WINDOWS_04"
+      launcher:
+        jnlp:
+          workDirSettings:
+            disabled: false
+            failIfWorkDirIsMissing: false
+            internalDir: "remoting"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_WINDOWS_04"
+      nodeDescription: "Jenkins node running in integration server No.04"
+      nodeProperties:
+      - toolLocation:
+          locations:
+          - home: "C:\\RTC-BuildSystem-Toolkit-Win64-6.0.6\\jazz\\buildsystem\\buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6"
+          - home: "C:\\RTC-BuildSystem-Toolkit-Win64-6.0.6.1\\jazz\\buildsystem\\\
+              buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6.1"
+          - home: "C:\\Program Files\\Git\\bin\\git"
+            key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+          - key: "org.jenkinsci.plugins.docker.commons.tools.DockerTool$DescriptorImpl@docker"
+          - home: "C:\\EWM-BuildSystem-Toolkit-Win64-7.0.1\\jazz\\buildsystem\\buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_7.0.1"
+      numExecutors: 10
+      remoteFS: "D:\\Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_WINDOWS_05"
+      launcher:
+        jnlp:
+          workDirSettings:
+            disabled: false
+            failIfWorkDirIsMissing: false
+            internalDir: "remoting"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_WINDOWS_05"
+      nodeDescription: "Jenkins node running in integration server No.05"
+      nodeProperties:
+      - toolLocation:
+          locations:
+          - home: "C:\\RTC-BuildSystem-Toolkit-Win64-6.0.6.1\\jazz\\buildsystem\\\
+              buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6.1"
+          - home: "C:\\RTC-BuildSystem-Toolkit-Win64-6.0.6\\jazz\\buildsystem\\buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6"
+          - home: "C:\\EWM-BuildSystem-Toolkit-Win64-7.0.1\\jazz\\buildsystem\\buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_7.0.1"
+      numExecutors: 4
+      remoteFS: "D:\\Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_WINDOWS_06"
+      launcher:
+        jnlp:
+          vmargs: "-Xmx8g -Xms8g"
+          workDirSettings:
+            disabled: false
+            failIfWorkDirIsMissing: false
+            internalDir: "remoting"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_WINDOWS_06"
+      nodeDescription: "Jenkins node running in integration server No.06"
+      nodeProperties:
+      - toolLocation:
+          locations:
+          - home: "C:\\RTC-BuildSystem-Toolkit-Win64-6.0.6.1\\jazz\\buildsystem\\\
+              buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6.1"
+          - home: "C:\\RTC-BuildSystem-Toolkit-Win64-6.0.6\\jazz\\buildsystem\\buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6"
+          - home: "C:\\EWM-BuildSystem-Toolkit-Win64-7.0.1\\jazz\\buildsystem\\buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_7.0.1"
+      numExecutors: 5
+      remoteFS: "D:\\Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_WINDOWS_07"
+      launcher:
+        jnlp:
+          workDirSettings:
+            disabled: false
+            failIfWorkDirIsMissing: false
+            internalDir: "remoting"
+            workDirPath: "FPKG"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_WINDOWS_07"
+      nodeDescription: "Jenkins node running in integration server No.07"
+      nodeProperties:
+      - toolLocation:
+          locations:
+          - home: "C:\\jazz\\buildsystem\\buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6.1"
+          - home: "C:\\RTC-BuildSystem-Toolkit-Win64-6.0.6\\jazz\\buildsystem\\buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6"
+          - home: "C:\\EWM-BuildSystem-Toolkit-Win64-7.0.1\\jazz\\buildsystem\\buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_7.0.1"
+      numExecutors: 8
+      remoteFS: "D:\\Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_WINDOWS_08"
+      launcher:
+        jnlp:
+          workDirSettings:
+            disabled: false
+            failIfWorkDirIsMissing: false
+            internalDir: "remoting"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_WINDOWS_08"
+      nodeDescription: "Jenkins node running in integration server No.08"
+      nodeProperties:
+      - toolLocation:
+          locations:
+          - home: "C:\\RTC-BuildSystem-Toolkit-Win64-6.0.6\\jazz\\buildsystem\\buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6"
+          - home: "C:\\Program Files\\Git\\bin"
+            key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+          - home: "C:\\RTC-BuildSystem-Toolkit-Win64-6.0.6.1\\jazz\\buildsystem\\\
+              buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6.1"
+          - home: "C:\\EWM-BuildSystem-Toolkit-Win64-7.0.1\\jazz\\buildsystem\\buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_7.0.1"
+      numExecutors: 4
+      remoteFS: "D:\\Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_WINDOWS_09"
+      launcher:
+        jnlp:
+          workDirSettings:
+            disabled: false
+            failIfWorkDirIsMissing: false
+            internalDir: "remoting"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_WINDOWS_09"
+      nodeDescription: "Jenkins node running in integration server No.09"
+      nodeProperties:
+      - toolLocation:
+          locations:
+          - home: "D:\\EWM-BuildSystem-Toolkit-Win64-7.0.1\\jazz\\buildsystem\\buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_7.0.1"
+          - home: "C:\\Program Files\\Git\\bin\\git"
+            key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+          - home: "C:\\RTC-BuildSystem-Toolkit-Win64-6.0.6\\jazz\\buildsystem\\buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6"
+      numExecutors: 4
+      remoteFS: "D:\\Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_WINDOWS_10"
+      launcher:
+        jnlp:
+          workDirSettings:
+            disabled: false
+            failIfWorkDirIsMissing: false
+            internalDir: "remoting"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_WINDOWS_10"
+      nodeDescription: "Jenkins node running in integration server No.10"
+      nodeProperties:
+      - envInject:
+          propertiesFilePath: "C:\\curl\\bin;"
+          unsetSystemVariables: false
+      - toolLocation:
+          locations:
+          - home: "C:\\Program Files\\Git\\bin\\git"
+            key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+          - home: "C:\\RTC-BuildSystem-Toolkit-Win64-6.0.6\\jazz\\buildsystem\\buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6"
+      numExecutors: 4
+      remoteFS: "D:\\Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_WINDOWS_CSE"
+      launcher:
+        jnlp:
+          workDirSettings:
+            disabled: false
+            failIfWorkDirIsMissing: false
+            internalDir: "remoting"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_WINDOWS_CSE"
+      nodeDescription: "Jenkins node running in integration server CSE"
+      nodeProperties:
+      - toolLocation:
+          locations:
+          - home: "C:\\Git\\bin\\git"
+            key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+          - home: "C:\\RTC-BuildSystem-Toolkit-Win64-6.0.6.1\\jazz\\buildsystem\\\
+              buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6.1"
+      numExecutors: 4
+      remoteFS: "D:\\Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_WINDOWS_CTV1"
+      launcher:
+        jnlp:
+          workDirSettings:
+            disabled: false
+            failIfWorkDirIsMissing: false
+            internalDir: "remoting"
+      mode: EXCLUSIVE
+      name: "INTEGRATION_WINDOWS_CTV1"
+      nodeDescription: "Jenkins node running in integration server CTV1"
+      nodeProperties:
+      - toolLocation:
+          locations:
+          - home: "C:\\Git\\bin\\git"
+            key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+          - home: "C:\\RTC-BuildSystem-Toolkit-Win64-6.0.6.1\\jazz\\buildsystem\\\
+              buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_6.0.6.1"
+          - home: "C:\\EWM-BuildSystem-Toolkit-Win64-7.0.1\\jazz\\buildsystem\\buildtoolkit"
+            key: "com.ibm.team.build.internal.hjplugin.RTCBuildToolInstallation$DescriptorImpl@RTC_Build_Toolkit_7.0.1"
+      numExecutors: 4
+      remoteFS: "D:\\Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "INTEGRATION_LINUX_T5500"
+      launcher:
+        ssh:
+          credentialsId: "383bd74d-3ca5-48ff-9eef-fb11cf9eeeeb"
+          host: "136.17.77.16"
+          launchTimeoutSeconds: 5
+          maxNumRetries: 1
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "knownHostsFileKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "t5500"
+      nodeDescription: "Jenkins node running in integration server No.t5500"
+      nodeProperties:
+      - toolLocation:
+          locations:
+          - home: "/usr/bin/git"
+            key: "hudson.plugins.git.GitTool$DescriptorImpl@Default"
+      numExecutors: 6
+      remoteFS: "/home/admins/Jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "test_git_pull"
+      launcher:
+        ssh:
+          credentialsId: "77d25317-f5b5-4931-b041-241615da3867"
+          host: "136.17.77.96"
+          launchTimeoutSeconds: 5
+          maxNumRetries: 1
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "test_git_pull"
+      nodeDescription: "Jenkins node running in integration server No.18"
+      nodeProperties:
+      - envVars:
+          env:
+          - key: "REPO_URL"
+            value: "ssh://136.17.76.164:29418/Common/tools/repo"
+      numExecutors: 6
+      remoteFS: "/home/administrator/Jenkins"
+      retentionStrategy: "always"
+  numExecutors: 6
+  primaryView:
+    all:
+      name: "all"
+  projectNamingStrategy: "standard"
+  proxy:
+    name: "185.46.212.88"
+    password: "{AQAAABAAAAAQHk7S1MIlS2XB8lVv9N3oybS9PcnNXyqGxdAe1r6UO1c=}"
+    port: 80
+    userName: "hshu"
+  quietPeriod: 5
+  remotingSecurity:
+    enabled: false
+  scmCheckoutRetryCount: 0
+  securityRealm:
+    activeDirectory:
+      customDomain: true
+      domains:
+      - bindName: "hshu@yfve.com.cn"
+        bindPassword: "{AQAAABAAAAAQ9OJjtxdvwoDhflsV6UZMB5JwPnOWKnVn3bGKJz4qA10=}"
+        name: "vistcorp.ad.visteon.com"
+        servers: "136.17.76.21:389"
+        tlsConfiguration: TRUST_ALL_CERTIFICATES
+      groupLookupStrategy: AUTO
+      removeIrrelevantGroups: false
+      startTls: true
+  slaveAgentPort: 0
+  updateCenter:
+    sites:
+    - id: "default"
+      url: "http://updates.jenkins.io/update-center.json"
+  views:
+  - dashboard:
+      columns:
+      - "status"
+      - "jobName"
+      - "buildButton"
+      name: "00_INTE_Template"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      name: "20_Devops"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "robot"
+      name: "29675_SGM_H458"
+  - dashboard:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "issuesTotalColumn"
+      - "robot"
+      - "favoriteColumn"
+      name: "3"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "builtOnColumn"
+      includeRegex: "^*.*"
+      name: "All_disable"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "builtOnColumn"
+      includeRegex: "^*.*"
+      name: "All_enable"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "robot"
+      - "favoriteColumn"
+      name: "Code_Stat"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Coverity_weekly_triger"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "robot"
+      name: "ForDev"
+  - dashboard:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "robot"
+      name: "PIPELINE-TEST"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      name: "Pro_11488_S550"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      includeRegex: "13105.*"
+      name: "Pro_13105_NGI1.0"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      includeRegex: "18497.*"
+      name: "Pro_18497_SMD"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "robot"
+      name: "Pro_21024_GEM"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      includeRegex: "21424.*"
+      name: "Pro_21424_ICI1.0+"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      includeRegex: "21733.*"
+      name: "Pro_21733_N18"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_22915_CR229"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_23057_ESI"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_23423_NGI2.0Low"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      includeRegex: "24085.*"
+      name: "Pro_24085_CMA"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_24285_DX7"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_24331_ADAS"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_24741_DCY11"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_25026_SGM318"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_25034_NX4c"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_25386_FS11"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "robot"
+      - "favoriteColumn"
+      name: "Pro_25458_K218"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "robot"
+      - "favoriteColumn"
+      name: "Pro_25487_358_TFT"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      includeRegex: "Pro_25488.*"
+      name: "Pro_25488_CRS3.0"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_25613_K218"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_25680_S301"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_25716_JLR"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_25969_FPKG"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_26273_H9"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_26333_S302"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_26334_S301PHEV"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "robot"
+      name: "Pro_26360_Honda"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "robot"
+      - "favoriteColumn"
+      name: "Pro_26363_D245"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_26411_PMA"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "robot"
+      name: "Pro_26458_C519"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_27012_POC"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_27159_GTMC"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_27228_37W"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_27616_IDCM"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_27666_AS23"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_28006_FPKG"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "issuesTotalColumn"
+      - "robot"
+      name: "Pro_28021_BX755"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_28151_EX21"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_28307_ATEV"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "robot"
+      - "favoriteColumn"
+      name: "Pro_28665_ICI2.8"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "robot"
+      name: "Pro_28681_SGM_Display"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "issuesTotalColumn"
+      - "robot"
+      - "favoriteColumn"
+      name: "Pro_28747_GWM_TFT"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "robot"
+      name: "Pro_28819_CTV1"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "issuesTotalColumn"
+      - "robot"
+      name: "Pro_29015_LOTUS"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_29083_SGM458"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "robot"
+      name: "Pro_29121_SGM_JCSB"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      name: "Pro_29156_ATEV"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "robot"
+      name: "Pro_29314_CMA"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "issuesTotalColumn"
+      - "robot"
+      name: "Pro_29380_EP33"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "robot"
+      name: "Pro_29390_MIFA"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "robot"
+      name: "Pro_29410_C095"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "robot"
+      name: "Pro_29448_11XD"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "robot"
+      name: "Pro_29475_SP2"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "robot"
+      name: "Pro_29688_MIFA_WHUD"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "robot"
+      name: "Pro_29711_HENGDA"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "robot"
+      name: "Pro_29881_SGM_K218"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "robot"
+      - "favoriteColumn"
+      name: "Pro_29973_SGM_Controller"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "robot"
+      name: "Pro_30047_CRS_sop2"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "robot"
+      includeRegex: "30447.*"
+      name: "Pro_30447_D511"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "robot"
+      name: "Pro_CHRYSLER"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "robot"
+      - "favoriteColumn"
+      name: "Pro_EP33_LAMP_DoorSwitch"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "robot"
+      name: "Pro_VW_MCC4"
+  - dashboard:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "issuesTotalColumn"
+      - "robot"
+      name: "SUBSYSTEM_BSP"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "builtOnColumn"
+      - "favoriteColumn"
+      - "robot"
+      name: "TEST"
+  - dashboard:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      name: "TODO_CSE_CI"
+  - all:
+      name: "all"
+  - all:
+      name: "all"
+  viewsTabBar: "standard"
+security:
+  apiToken:
+    creationOfLegacyTokenEnabled: false
+    tokenGenerationOnCreationEnabled: false
+    usageStatisticsEnabled: true
+  copyartifact:
+    mode: MIGRATION
+  downloadSettings:
+    useBrowser: true
+  envInject:
+    enableLoadingFromMaster: false
+    enablePermissions: false
+    hideInjectedVars: false
+  sSHD:
+    port: -1
+  scriptApproval:
+    approvedSignatures:
+    - "method java.util.regex.MatchResult group int"
+unclassified:
+  artifactoryBuilder:
+    artifactoryServers: |-
+      FAILED TO EXPORT
+      org.jfrog.hudson.ArtifactoryBuilder$DescriptorImpl#artifactoryServers: io.jenkins.plugins.casc.ConfiguratorException: Can't read attribute 'serverId' from org.jfrog.hudson.ArtifactoryServer@2dcf6d1a
+        at io.jenkins.plugins.casc.Attribute._getValue(Attribute.java:453)
+        at io.jenkins.plugins.casc.Attribute.getValue(Attribute.java:227)
+        at io.jenkins.plugins.casc.impl.configurators.DataBoundConfigurator.describe(DataBoundConfigurator.java:282)
+        at io.jenkins.plugins.casc.Attribute._describe(Attribute.java:320)
+        at io.jenkins.plugins.casc.Attribute.describe(Attribute.java:249)
+        at io.jenkins.plugins.casc.Configurator.describe(Configurator.java:163)
+        at io.jenkins.plugins.casc.impl.configurators.GlobalConfigurationCategoryConfigurator.describe(GlobalConfigurationCategoryConfigurator.java:106)
+        at io.jenkins.plugins.casc.impl.configurators.GlobalConfigurationCategoryConfigurator.lambda$describe$3(GlobalConfigurationCategoryConfigurator.java:99)
+        at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184)
+        at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:175)
+        at java.util.Iterator.forEachRemaining(Iterator.java:116)
+        at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+        at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:481)
+        at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:471)
+        at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+        at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+        at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+        at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:418)
+        at io.jenkins.plugins.casc.impl.configurators.GlobalConfigurationCategoryConfigurator.describe(GlobalConfigurationCategoryConfigurator.java:99)
+        at io.jenkins.plugins.casc.impl.configurators.GlobalConfigurationCategoryConfigurator.describe(GlobalConfigurationCategoryConfigurator.java:30)
+    jfrogPipelinesServer:
+      bypassProxy: false
+      connectionRetries: 3
+      credentialsConfig:
+        ignoreCredentialPluginDisabled: true
+        overridingCredentials: false
+        password: "{AQAAABAAAAAQZGf26yMMy66XvJX2jJ1TnZ9EU8EVKITsxQACYGo5NDc=}"
+        username: "****"
+      timeout: 300
+    useCredentialsPlugin: false
+  badgePlugin:
+    disableFormatHTML: false
+  bitbucketEndpointConfiguration:
+    endpoints:
+    - bitbucketCloudEndpoint:
+        enableCache: false
+        manageHooks: false
+        repositoriesCacheDuration: 0
+        teamCacheDuration: 0
+  buildStepOperation:
+    enabled: false
+  buildTimestamp:
+    enableBuildTimestamp: true
+    pattern: "yyyy-MM-dd HH:mm:ss z"
+    timezone: "Asia/Shanghai"
+  coverityPublisher:
+    instances:
+    - host: "136.18.227.39"
+      name: "Coverity Connect"
+      port: 8080
+    sslConfigurations:
+      trustNewSelfSignedCert: false
+  defaultFolderConfiguration:
+    healthMetrics:
+    - worstChildHealthMetric:
+        recursive: true
+  dockerSettings:
+    cloudOrder: "asIs"
+  extendedEmailPublisher:
+    adminRequiredForTemplateTesting: false
+    advProperties: "YFve_2018!"
+    allowUnregisteredEnabled: false
+    charset: "UTF-8"
+    debugMode: false
+    defaultBody: "$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS:\r\n\r\n(本\
+      邮件是程序自动下发，请勿回复!)\r\n\r\n项目名称： $PROJECT_NAME\r\n构建地址： $BUILD_URL\r\n构建状态： $BUILD_STATUS\r\
+      \n触发原因： ^${CAUSE}\r\n状态日志： ^${BUILD_URL}console"
+    defaultContentType: "text/plain"
+    defaultRecipients: "SW5_Integratation_Team@visteon.onmicrosoft.com"
+    defaultSubject: "$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS!"
+    defaultSuffix: "@yfve.com.cn"
+    maxAttachmentSize: -1
+    maxAttachmentSizeMb: 0
+    precedenceBulk: false
+    smtpPassword: "{AQAAABAAAAAQfOLJP9l5ETls7EPQo4p4+gH/JJXL4GFeASMLVtOaJqM=}"
+    smtpPort: "587"
+    smtpServer: "136.17.184.244"
+    smtpUsername: "hshu@yfve.com.cn"
+    useSsl: false
+    watchingEnabled: false
+  gitHubConfiguration:
+    apiRateLimitChecker: ThrottleForNormalize
+  gitHubPluginConfig:
+    hookUrl: "http://136.17.76.87:8080/github-webhook/"
+  gitSCM:
+    createAccountBasedOnEmail: false
+    showEntireCommitSummaryInChanges: false
+    useExistingAccountWithSameEmail: false
+  globalSettings:
+    failOnCorrupt: false
+    noAuthors: false
+    quietMode: false
+  ivyBuildTrigger:
+    extendedVersionMatching: false
+  location:
+    adminAddress: "hshu@yfve.com.cn"
+    url: "http://136.17.76.87:8080/"
+  logParser:
+    legacyFormatting: false
+    parsingRulesGlobal:
+    - name: "29675_sgmh458"
+      path: "/opt/jenkin_log_parsel_ruler/29675_sgmh458_rule.log"
+    - name: "28665_ici2.8_parselog_rules_vip"
+      path: "/opt/jenkin_log_parsel_ruler/28665_ici2.8_parselog_rules_vip"
+    - name: "28665_ici2.8_parselog_rules_qnx"
+      path: "/opt/jenkin_log_parsel_ruler/28665_ici2.8_parselog_rules_qnx"
+    - name: "28665_ici2.8_parselog_rules_android"
+      path: "/opt/jenkin_log_parsel_ruler/28665_ici2.8_parselog_rules_android"
+    - name: "25488_CRS_rules"
+      path: "/opt/jenkin_log_parsel_ruler/25488_CRS_rule.log"
+    - name: "27228_37W_rules"
+      path: "/opt/jenkin_log_parsel_ruler/27228_37W_rule.log"
+  mailer:
+    authentication:
+      password: "{AQAAABAAAAAQkB093tYWpJ88pYZ92+1/3uYeXD/gR53VqravXorMsvo=}"
+      username: "hshu@yfve.com.cn"
+    charset: "UTF-8"
+    defaultSuffix: "@yfve.com.cn"
+    smtpHost: "136.17.184.244"
+    smtpPort: "587"
+    useSsl: false
+    useTls: false
+  mavenModuleSet:
+    localRepository: "default"
+  pipeline-model-docker:
+    registry:
+      url: "136.17.79.231:5000"
+  pollSCM:
+    pollingThreadCount: 20
+  robotConfig:
+    buildsToShowInResultsColumn: 15
+    robotResultsColumnEnabled: true
+    xAxisLabelFormat: "#$build"
+  timestamperConfig:
+    allPipelines: false
+    elapsedTimeFormat: "'<b>'HH:mm:ss.S'</b> '"
+    systemTimeFormat: "'<b>'HH:mm:ss'</b> '"
+  upstream:
+    globalUpstreamFilterStrategy: UseOldest
+  warningsParsers:
+    parsers:
+    - example: "D:/Jenkins/24741/CEVT_DCY11_Cluster_GIP_CI_Success/di.app.upgrade/sysupgrade_usb/src/sysupgrade.c:1802:\
+        \ warning: format '%x' expects type 'unsigned int', but argument 2 has type\
+        \ 'unsigned32'"
+      id: "QNX650_GIP_Compile_Warning"
+      name: "QNX650_GIP_Compile_Warning"
+      regexp: "^(.*):(\\d+): (.*): (.*)$"
+      script: |-
+        import hudson.plugins.warnings.parser.Warning;
+        String filename = matcher.group(1);
+        String lineNumber = matcher.group(2);
+        String category = matcher.group(3);
+        String message = matcher.group(4);
+        return new Warning("fileName", 1, "Dynamic Parser", "category" , "normal")
+tool:
+  dockerTool:
+    installations:
+    - name: "docker"
+  git:
+    installations:
+    - home: "/usr/local/bin/git"
+      name: "Default"
+  jdk:
+    installations:
+    - properties:
+      - installSource:
+          installers:
+          - jdkInstaller:
+              acceptLicense: false
+              id: "jdk-8u111-oth-JPR"
+  maven:
+    installations:
+    - home: "/var/lib/jenkins/apache-maven-3.6.0"
+      name: "maven-3.6.0"
+  rTCBuildToolInstallation:
+    installations:
+    - home: "/var/software/jazz_7.0.1/jazz/buildsystem/buildtoolkit"
+      name: "RTC_Build_Toolkit_7.0.1"
+    - home: "/var/software/jazz_6.0.2/buildsystem/buildtoolkit"
+      name: "RTC_Build_Toolkit_6.0.2"
+    - home: "/var/software/jazz_6.0.6/buildsystem/buildtoolkit"
+      name: "RTC_Build_Toolkit_6.0.6"
+    - home: "/var/software/jazz_6.0.6.1/buildsystem/buildtoolkit"
+      name: "RTC_Build_Toolkit_6.0.6.1"
